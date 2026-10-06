@@ -79,6 +79,7 @@ Infrastructure for building your own whale-tracking tools.
 - [Moralis](https://moralis.io) — Web3 backend APIs with NFT, token, and wallet endpoints. Free tier.
 - [QuickNode](https://www.quicknode.com) — High-performance RPC + APIs with low-latency endpoints. Free tier.
 - [The Graph](https://thegraph.com) — Decentralized indexing for blockchain data via subgraphs. Pay-per-query.
+- [HostDeFi x402 API](https://hostdefi.com/features/x402-rpc) — Machine-payable token-risk and JSON-RPC API on 82 chains; per-call USDC, no API key. Free web token scanner at hostdefi.com/scan.
 
 ## Open-Source Libraries
 
